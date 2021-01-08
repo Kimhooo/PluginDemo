@@ -1,0 +1,4 @@
+include ':plugin_package'
+include ':lifecycle_mananager'
+include ':app'
+rootProject.name = "PluginDemo"
